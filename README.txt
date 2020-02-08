@@ -11,4 +11,4 @@ As a quick reminder, this came from one of three lugugocations in either SSH, Gi
 
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
-This demo also includes an image with changes on a ,, testmm
+This demo also includes an image with changes here
