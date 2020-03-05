@@ -3,7 +3,7 @@ Here is an addition by me.bb
 12w11
 We can have a bit of fun with this repo, knowing that we can alwa.ys reset it to a known good state.  We can apply labels, and branch, then add new code and merge it in to the master branch.test
 
-As a quick reminder, this came from one of three lugugocations in either SSH, Git, or HTTPS format:
+As a quick reminqwqwqder, this came from one of three lugugocations in either SSH, Git, or HTTPS format:
 
 * git@github.com:matthewmccullough/hellogitworld.git
 * git://github.com/matthewmccullough/hellogitworld.git
