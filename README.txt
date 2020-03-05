@@ -7,7 +7,7 @@ As a quick reminder, this came from one of three lugugocations in either SSH, Gi
 
 * git@github.com:matthewmccullough/hellogitworld.git
 * git://github.com/matthewmccullough/hellogitworld.git
-* https://matthewmccullough@github.com/matthewmccullough/hellogitworld.git
+* https://matthewmccullough@github.c11111om/matthewmccullough/hellogitworld.git
 
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
