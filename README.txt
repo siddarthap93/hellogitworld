@@ -8,6 +8,6 @@ As a quick reminqwqwqder, this came from one of three lugugocations in either SS
 * git://github.com/matthewmccullough/hellogitworld.gitqewew
 * https://matthewmccullough@github.c11111om/matthewmccullough/hellogitworld.git
 
-We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
+We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class
 
 
